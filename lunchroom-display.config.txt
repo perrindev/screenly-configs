@@ -1,6 +1,8 @@
 # For more options and information see
 # http://rpf.io/configtxt
 # Some settings may impact device functionality. See link above for details
+#
+# FOLLOWING SETTINGS FOR RASPBERRY PI 3B
 
 # uncomment if you get no picture on HDMI for a default "safe" mode
 #hdmi_safe=1
