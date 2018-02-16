@@ -1,4 +1,4 @@
-# FOLLOWING SETTINGS ARE FOR A RASPBERRY PI B+ / PLANAR PS6552
+# FOLLOWING SETTINGS ARE FOR A RASPBERRY PI B+ / PLANAR PS6552 (PORTRAIT)
 
 # uncomment if you get no picture on HDMI for a default "safe" mode
 #hdmi_safe=1
